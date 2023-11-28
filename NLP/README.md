@@ -1,0 +1,1 @@
+# Machine-Learning_NLP_deteksi-positive-negative-komentar-menggunakan_PYTORCH_Yudha-Mulyana
